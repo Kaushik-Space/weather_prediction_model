@@ -25,21 +25,17 @@ pip install pandas scikit-learn matplotlib
 
 Usage
 
-    Clone the repository:
+Clone the repository:
 
-    bash
-
-git clone https://github.com/Kaushik-Space/weather_prediction_model.git
+    git clone https://github.com/Kaushik-Space/weather_prediction_model.git
 
 Navigate to the repository directory:
 
-bash
 
-cd weather-prediction-model
+    cd weather-prediction-model
 
 Run the Jupyter Notebook:
 
-bash
 
     jupyter notebook weather_model.ipynb
 
